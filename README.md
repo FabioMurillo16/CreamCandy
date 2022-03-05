@@ -1,3 +1,1 @@
-# CreamCandy
- 
- #creamcandy.netlify.app
+# CreamCandy creamcandy.netlify.app
